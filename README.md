@@ -1,2 +1,3 @@
 # xribant.me
 My Personal Page
+This is only a personal page about me, my skills, etc...
